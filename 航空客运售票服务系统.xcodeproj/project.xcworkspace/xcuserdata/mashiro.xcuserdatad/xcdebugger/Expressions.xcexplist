@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "writeback(List):Header.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "L.elem[i].flightid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "display(List):Header.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "L.elem[count].start">
+            </PersistentString>
+            <PersistentString
+               value = "L.elem[count].finish">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Init(List&amp;, int&amp;):Header.h">
+         <PersistentStrings>
+            <PersistentString
+               value = "L.elem[count].quota">
+            </PersistentString>
+            <PersistentString
+               value = "L.elem[count].residue">
+            </PersistentString>
+            <PersistentString
+               value = "hb.residue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = " n">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
